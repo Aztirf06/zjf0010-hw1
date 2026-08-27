@@ -16,4 +16,6 @@ int main()
 	cout<<"Object 1: " <<endl
 	cout<<"Value 1: " << object1.val1() <<endl
 	cout<<"Value 2: " << object1.val2() <<endl
+
+	return 0;
 }
